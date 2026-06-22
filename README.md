@@ -52,7 +52,10 @@ Supports loading DICOM image series and visualising them as GPU-accelerated 3D v
 
 ## Screenshots
 
-> Add screenshots here — volume render, MPR layout, clipping plane, measurements.
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/e6f0d77e-8311-4906-93e2-108027b218f2" />
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/96bdc764-2e81-4756-a162-5d38e42e37dd" />
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/361da485-446c-4845-a300-bd755fea0e73" />
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/c1171d7b-33b5-45ad-b880-6555573c84a4" />
 
 ---
 
