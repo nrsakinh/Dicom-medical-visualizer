@@ -1,0 +1,47 @@
+# ── DICOM datasets (large medical imaging files — not tracked) ───────────────
+Dataset/Brain/
+Dataset/Brain2/
+Dataset/CSpine/
+Dataset/Knee/
+Dataset/Knee2/
+Dataset/knee3/
+Dataset/Pelvis/
+Dataset/Shoulder/
+Dataset/Teeth/
+
+# ── Session files (contain hardcoded local paths — machine-specific) ─────────
+*.json
+
+# ── VTK error log ────────────────────────────────────────────────────────────
+vtk_errors.log
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+project_env*/
+
+# ── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Large media (splash video tracked separately if needed) ──────────────────
+# Dataset/splash_screen.mp4

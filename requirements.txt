@@ -1,0 +1,4 @@
+vtk>=9.0
+PyQt5>=5.15
+numpy>=1.21
+pydicom>=2.3
