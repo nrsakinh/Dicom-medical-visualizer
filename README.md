@@ -171,7 +171,6 @@ Developed as **Assignment 2** for the Scientific Data Visualisation module (SV40
 
 **Programme:** BSc (Hons.) Mathematics Computer Graphics  
 **Student:** Nur Sakinah Binti Mohammad Ali  
-**Supervisor context:** Scientific Data Visualisation, UMS
 
 ---
 
